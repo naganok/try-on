@@ -1,0 +1,39 @@
+{
+    "1683669400457515:166293": {
+        "IFileManager": {
+            "path": "Files/File_1683669400457515_166293"
+        }
+    },
+    "1683669400462236:166296": {
+        "IResourceController": {
+            "name": "top_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683669400462243:166297",
+            "fileId": "1683669400457515:166293",
+            "originalId": "1683669400493078:166301",
+            "publicId": "1683669400918072:166308",
+            "expected_hash": "aaf062cf76d4c71f41031a6c65932f31"
+        },
+        "IResourceManager": {
+            "uid": "1683669400462243:166297",
+            "name": "Files/File_1683669400457515_166293",
+            "flags": 1
+        }
+    },
+    "1683669400493078:166301": {
+        "IFileManager": {
+            "path": "Files/File_1683669400493078_166301.lsmat"
+        }
+    },
+    "1683669400918072:166308": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Materials/top_mat.lsmat",
+                "hash": "7120d000a1fb193b37647866ebd287a1"
+            }
+        }
+    }
+}

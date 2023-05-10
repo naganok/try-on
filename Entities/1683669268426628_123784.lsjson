@@ -1,0 +1,24 @@
+{
+    "1683669268426628:123784": {
+        "IResourceController": {
+            "name": "gloves_body_mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683669268426620:123783",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File_1683669268438983_123794.extmesh"
+                ],
+                "externalBodyMapFileID": "1683669268438983:123794",
+                "externalBodyMapFilepath": "Files/File_1683669268438983_123794.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683669268426620:123783",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

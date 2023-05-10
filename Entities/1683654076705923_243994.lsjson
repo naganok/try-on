@@ -1,0 +1,25 @@
+{
+    "1683654076705923:243994": {
+        "IResourceController": {
+            "name": "BodyMeshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683654076706111:243995",
+            "resources": [
+                "1683654091360621:245521",
+                "1683669266145585:121637",
+                "1683669268426628:123784",
+                "1683669270288558:125904"
+            ]
+        }
+    },
+    "1683654076706111:243995": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/BodyMeshes"
+            }
+        }
+    }
+}

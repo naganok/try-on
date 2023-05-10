@@ -1,0 +1,30 @@
+{
+    "1683653932387620:211028": {
+        "IResourceController": {
+            "name": "boneskirt_lensstudio",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1683653932387535:211018",
+            "fileId": "1683653932418794:211039",
+            "originalId": "1683653950638637:216794",
+            "expected_hash": "5e4fe02445e3658699da04978ae2d1fe"
+        },
+        "IResourceManager": {
+            "uid": "1683653932387535:211018",
+            "name": "boneskirt_lensstudio",
+            "flags": 0
+        }
+    },
+    "1683653932418794:211039": {
+        "IFileManager": {
+            "path": "Files/File_1683653932418794_211039.oprfb"
+        }
+    },
+    "1683653950638637:216794": {
+        "IFileManager": {
+            "path": "Files/File_1683653950638637_216794.oprfb"
+        }
+    }
+}

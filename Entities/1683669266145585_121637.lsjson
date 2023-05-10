@@ -1,0 +1,24 @@
+{
+    "1683669266145585:121637": {
+        "IResourceController": {
+            "name": "hat_body_mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683669266145565:121636",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File_1683669266158272_121647.extmesh"
+                ],
+                "externalBodyMapFileID": "1683669266158272:121647",
+                "externalBodyMapFilepath": "Files/File_1683669266158272_121647.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683669266145565:121636",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

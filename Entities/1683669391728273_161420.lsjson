@@ -1,0 +1,39 @@
+{
+    "1683669391724333:161419": {
+        "IFileManager": {
+            "path": "Files/File_1683669391724333_161419"
+        }
+    },
+    "1683669391728273:161420": {
+        "IResourceController": {
+            "name": "gloves_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683669391728280:161421",
+            "fileId": "1683669391724333:161419",
+            "originalId": "1683669391756227:161427",
+            "publicId": "1683669391969024:161434",
+            "expected_hash": "aaf062cf76d4c71f41031a6c65932f31"
+        },
+        "IResourceManager": {
+            "uid": "1683669391728280:161421",
+            "name": "Files/File_1683669391724333_161419",
+            "flags": 1
+        }
+    },
+    "1683669391756227:161427": {
+        "IFileManager": {
+            "path": "Files/File_1683669391756227_161427.lsmat"
+        }
+    },
+    "1683669391969024:161434": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Materials/gloves_mat.lsmat",
+                "hash": "ee06d844e41baa64a1a958b922abed86"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1683669270288558:125904": {
+        "IResourceController": {
+            "name": "top_body_mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683669270288551:125903",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File_1683669270299050_125915.extmesh"
+                ],
+                "externalBodyMapFileID": "1683669270299050:125915",
+                "externalBodyMapFilepath": "Files/File_1683669270299050_125915.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683669270288551:125903",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

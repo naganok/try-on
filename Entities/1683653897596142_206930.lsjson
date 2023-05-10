@@ -1,0 +1,22 @@
+{
+    "1683653897596142:206930": {
+        "IResourceController": {
+            "name": "Roblox",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683653897596609:206931",
+            "resources": [
+                "1683654042754290:236871"
+            ]
+        }
+    },
+    "1683653897596609:206931": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox"
+            }
+        }
+    }
+}

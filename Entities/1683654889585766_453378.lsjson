@@ -1,0 +1,30 @@
+{
+    "1683654889585766:453378": {
+        "IResourceController": {
+            "name": "artificialglove_lensstudio",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1683654889585690:453368",
+            "fileId": "1683654889622379:453393",
+            "originalId": "1683655253108470:550868",
+            "expected_hash": "bff64f2f4d3baaad0cac962933aaa329"
+        },
+        "IResourceManager": {
+            "uid": "1683654889585690:453368",
+            "name": "artificialglove_lensstudio",
+            "flags": 0
+        }
+    },
+    "1683654889622379:453393": {
+        "IFileManager": {
+            "path": "Files/File_1683654889622379_453393.oprfb"
+        }
+    },
+    "1683655253108470:550868": {
+        "IFileManager": {
+            "path": "Files/File_1683655253108470_550868.oprfb"
+        }
+    }
+}

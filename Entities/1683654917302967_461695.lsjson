@@ -1,0 +1,30 @@
+{
+    "1683654917302967:461695": {
+        "IResourceController": {
+            "name": "headcover_lensstudio",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1683654917302886:461685",
+            "fileId": "1683654917408434:461712",
+            "originalId": "1683655253150420:550876",
+            "expected_hash": "7af846dc63f504c97db98fb4fc63165a"
+        },
+        "IResourceManager": {
+            "uid": "1683654917302886:461685",
+            "name": "headcover_lensstudio",
+            "flags": 0
+        }
+    },
+    "1683654917408434:461712": {
+        "IFileManager": {
+            "path": "Files/File_1683654917408434_461712.oprfb"
+        }
+    },
+    "1683655253150420:550876": {
+        "IFileManager": {
+            "path": "Files/File_1683655253150420_550876.oprfb"
+        }
+    }
+}

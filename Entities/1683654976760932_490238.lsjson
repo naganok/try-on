@@ -1,0 +1,79 @@
+{
+    "1683654976749215:490201": {
+        "IFileManager": {
+            "path": "Files/File_1683654976749215_490201.pvr"
+        }
+    },
+    "1683654976760932:490238": {
+        "IResourceController": {
+            "name": "heartdress_MET",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683654976762047:490239",
+            "fileId": "1683654976749215:490201",
+            "originalId": "1683654976763228:490244",
+            "publicId": "1683654976807168:490315",
+            "expected_hash": "d88601d5a1870948bae531dcd98d437b",
+            "additional": {
+                "originHash": "e241b14c40bddd6067d9ed273824b4ab"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683654976762047:490239",
+            "name": "Files/File_1683654976749215_490201.png",
+            "flags": 1
+        }
+    },
+    "1683654976762047:490239": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e241b14c40bddd6067d9ed273824b4ab"
+                    },
+                    "v": "1683655048211087:520497"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "30673",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "82657",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683654976778599:490267"
+        }
+    },
+    "1683654976763228:490244": {
+        "IFileManager": {
+            "path": "Files/File_1683654976763228_490244.png"
+        }
+    },
+    "1683654976778599:490267": {
+        "IFileManager": {
+            "path": "Files/File_1683654976778599_490267.png"
+        }
+    },
+    "1683654976807168:490315": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Textures/heartdress_MET.png",
+                "hash": "e241b14c40bddd6067d9ed273824b4ab"
+            }
+        }
+    },
+    "1683655048211087:520497": {
+        "IFileManager": {
+            "path": "Files/File_1683655048211087_520497.pvr"
+        }
+    }
+}

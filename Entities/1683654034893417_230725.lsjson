@@ -1,0 +1,42 @@
+{
+    "1683654034886025:230722": {
+        "IFileManager": {
+            "path": "Files/File_1683654034886025_230722.png"
+        }
+    },
+    "1683654034893417:230725": {
+        "IResourceController": {
+            "name": "boneskirt_NRM",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683654034894896:230726",
+            "fileId": "1683654034886025:230722",
+            "originalId": "1683654034895887:230731",
+            "publicId": "1683654034904827:230732",
+            "expected_hash": "89ad12d0271215f1691461872531cefc",
+            "additional": {
+                "originHash": "c47b945be682d5f5275edd928fa3fa98"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683654034894896:230726",
+            "name": "Files/File_1683654034886025_230722.png",
+            "flags": 1
+        }
+    },
+    "1683654034895887:230731": {
+        "IFileManager": {
+            "path": "Files/File_1683654034895887_230731.png"
+        }
+    },
+    "1683654034904827:230732": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Textures/boneskirt_NRM.png",
+                "hash": "c47b945be682d5f5275edd928fa3fa98"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1683669381549536:156426": {
+        "IFileManager": {
+            "path": "Files/File_1683669381549536_156426"
+        }
+    },
+    "1683669381555168:156427": {
+        "IResourceController": {
+            "name": "hat_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683669381555178:156428",
+            "fileId": "1683669381549536:156426",
+            "originalId": "1683669381596491:156434",
+            "publicId": "1683669381891204:156441",
+            "expected_hash": "aaf062cf76d4c71f41031a6c65932f31"
+        },
+        "IResourceManager": {
+            "uid": "1683669381555178:156428",
+            "name": "Files/File_1683669381549536_156426",
+            "flags": 1
+        }
+    },
+    "1683669381596491:156434": {
+        "IFileManager": {
+            "path": "Files/File_1683669381596491_156434.lsmat"
+        }
+    },
+    "1683669381891204:156441": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Materials/hat_mat.lsmat",
+                "hash": "9d433162e1b5e3eda18d6f1a5536c64f"
+            }
+        }
+    }
+}

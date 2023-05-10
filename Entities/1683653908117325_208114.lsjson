@@ -1,0 +1,25 @@
+{
+    "1683653908117325:208114": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683653908117505:208115",
+            "resources": [
+                "1683653931107503:210828",
+                "1683654888303499:453202",
+                "1683654916031053:461517",
+                "1683654936137082:467236"
+            ]
+        }
+    },
+    "1683653908117505:208115": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Meshes"
+            }
+        }
+    }
+}

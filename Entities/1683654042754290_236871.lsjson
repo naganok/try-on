@@ -1,0 +1,25 @@
+{
+    "1683654042754290:236871": {
+        "IResourceController": {
+            "name": "TeamTaku",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683654042754501:236872",
+            "resources": [
+                "1683653908117325:208114",
+                "1683654005164891:227979",
+                "1683654061653252:242430",
+                "1683654076705923:243994"
+            ]
+        }
+    },
+    "1683654042754501:236872": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku"
+            }
+        }
+    }
+}

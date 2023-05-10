@@ -1,0 +1,79 @@
+{
+    "1683654969599812:484042": {
+        "IFileManager": {
+            "path": "Files/File_1683654969599812_484042.pvr"
+        }
+    },
+    "1683654969616829:484043": {
+        "IResourceController": {
+            "name": "headcover_MET",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683654969618025:484044",
+            "fileId": "1683654969599812:484042",
+            "originalId": "1683654969619099:484049",
+            "publicId": "1683654969682257:484059",
+            "expected_hash": "38999161ec0a28b8ecbca19817f2abdb",
+            "additional": {
+                "originHash": "1baf6fa60b4788682b394471f0600979"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683654969618025:484044",
+            "name": "Files/File_1683654969599812_484042.png",
+            "flags": 1
+        }
+    },
+    "1683654969618025:484044": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "1baf6fa60b4788682b394471f0600979"
+                    },
+                    "v": "1683655041111227:514103"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "90972",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "237650",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683654969637395:484056"
+        }
+    },
+    "1683654969619099:484049": {
+        "IFileManager": {
+            "path": "Files/File_1683654969619099_484049.png"
+        }
+    },
+    "1683654969637395:484056": {
+        "IFileManager": {
+            "path": "Files/File_1683654969637395_484056.png"
+        }
+    },
+    "1683654969682257:484059": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Textures/headcover_MET.png",
+                "hash": "1baf6fa60b4788682b394471f0600979"
+            }
+        }
+    },
+    "1683655041111227:514103": {
+        "IFileManager": {
+            "path": "Files/File_1683655041111227_514103.pvr"
+        }
+    }
+}

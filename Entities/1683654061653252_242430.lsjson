@@ -1,0 +1,25 @@
+{
+    "1683654061653252:242430": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683654061653447:242431",
+            "resources": [
+                "1683654545017415:383863",
+                "1683669381555168:156427",
+                "1683669391728273:161420",
+                "1683669400462236:166296"
+            ]
+        }
+    },
+    "1683654061653447:242431": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Materials"
+            }
+        }
+    }
+}

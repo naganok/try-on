@@ -1,0 +1,39 @@
+{
+    "1683654545010813:383860": {
+        "IFileManager": {
+            "path": "Files/File_1683654545010813_383860"
+        }
+    },
+    "1683654545017415:383863": {
+        "IResourceController": {
+            "name": "boneskirt_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683654545017422:383864",
+            "fileId": "1683654545010813:383860",
+            "originalId": "1683654545050185:383868",
+            "publicId": "1683654546233308:384031",
+            "expected_hash": "aaf062cf76d4c71f41031a6c65932f31"
+        },
+        "IResourceManager": {
+            "uid": "1683654545017422:383864",
+            "name": "Files/File_1683654545010813_383860",
+            "flags": 1
+        }
+    },
+    "1683654545050185:383868": {
+        "IFileManager": {
+            "path": "Files/File_1683654545050185_383868.lsmat"
+        }
+    },
+    "1683654546233308:384031": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Materials/boneskirt_mat.lsmat",
+                "hash": "71c5a0cf4fc2fdfdccf15c917f5b71fa"
+            }
+        }
+    }
+}

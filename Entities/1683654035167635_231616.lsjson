@@ -1,0 +1,42 @@
+{
+    "1683654035160525:231366": {
+        "IFileManager": {
+            "path": "Files/File_1683654035160525_231366.png"
+        }
+    },
+    "1683654035167635:231616": {
+        "IResourceController": {
+            "name": "boneskirt_ALB",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683654035168168:231649",
+            "fileId": "1683654035160525:231366",
+            "originalId": "1683654035168788:231782",
+            "publicId": "1683654035178682:231919",
+            "expected_hash": "3bdee2d3cacecaf0750d7469e0e4564a",
+            "additional": {
+                "originHash": "9c7fbd3405a57bb6b72e6da6fdc00ee1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683654035168168:231649",
+            "name": "Files/File_1683654035160525_231366.png",
+            "flags": 1
+        }
+    },
+    "1683654035168788:231782": {
+        "IFileManager": {
+            "path": "Files/File_1683654035168788_231782.png"
+        }
+    },
+    "1683654035178682:231919": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Textures/boneskirt_ALB.png",
+                "hash": "9c7fbd3405a57bb6b72e6da6fdc00ee1"
+            }
+        }
+    }
+}

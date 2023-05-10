@@ -1,0 +1,30 @@
+{
+    "1683654937470792:467416": {
+        "IResourceController": {
+            "name": "heartdress_lensstudio",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1683654937470717:467406",
+            "fileId": "1683654937505908:467431",
+            "originalId": "1683655253194665:550890",
+            "expected_hash": "ad33c92fde21c3675afe6267630d5e68"
+        },
+        "IResourceManager": {
+            "uid": "1683654937470717:467406",
+            "name": "heartdress_lensstudio",
+            "flags": 0
+        }
+    },
+    "1683654937505908:467431": {
+        "IFileManager": {
+            "path": "Files/File_1683654937505908_467431.oprfb"
+        }
+    },
+    "1683655253194665:550890": {
+        "IFileManager": {
+            "path": "Files/File_1683655253194665_550890.oprfb"
+        }
+    }
+}
