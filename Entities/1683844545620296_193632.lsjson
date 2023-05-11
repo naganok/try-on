@@ -1,0 +1,79 @@
+{
+    "1683844545610327:193631": {
+        "IFileManager": {
+            "path": "Files/File_1683844545610327_193631.pvr"
+        }
+    },
+    "1683844545620296:193632": {
+        "IResourceController": {
+            "name": "skirt_Roughness",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683844545623666:193633",
+            "fileId": "1683844545610327:193631",
+            "originalId": "1683844545624944:193638",
+            "publicId": "1683844545670522:193642",
+            "expected_hash": "7dbbe5c46140560927ece47c1ee83502",
+            "additional": {
+                "originHash": "b6984378fbe806cca99b22b1123a4dca"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683844545623666:193633",
+            "name": "Files/File_1683844545610327_193631.png",
+            "flags": 1
+        }
+    },
+    "1683844545623666:193633": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b6984378fbe806cca99b22b1123a4dca"
+                    },
+                    "v": "1683844553097930:208873"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "116909",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "237595",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683844545642454:193641"
+        }
+    },
+    "1683844545624944:193638": {
+        "IFileManager": {
+            "path": "Files/File_1683844545624944_193638.png"
+        }
+    },
+    "1683844545642454:193641": {
+        "IFileManager": {
+            "path": "Files/File_1683844545642454_193641.png"
+        }
+    },
+    "1683844545670522:193642": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamFija/Textures/skirt_Roughness.png",
+                "hash": "b6984378fbe806cca99b22b1123a4dca"
+            }
+        }
+    },
+    "1683844553097930:208873": {
+        "IFileManager": {
+            "path": "Files/File_1683844553097930_208873.pvr"
+        }
+    }
+}

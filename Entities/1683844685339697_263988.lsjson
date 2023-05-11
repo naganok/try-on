@@ -1,0 +1,24 @@
+{
+    "1683844685339697:263988": {
+        "IResourceController": {
+            "name": "shirt_fija_body_mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683844685339644:263987",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File_1683844706193159_270347.extmesh"
+                ],
+                "externalBodyMapFileID": "1683844706193159:270347",
+                "externalBodyMapFilepath": "Files/File_1683844706193159_270347.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683844685339644:263987",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

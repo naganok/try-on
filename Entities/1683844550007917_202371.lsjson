@@ -1,0 +1,42 @@
+{
+    "1683844549999378:202370": {
+        "IFileManager": {
+            "path": "Files/File_1683844549999378_202370.png"
+        }
+    },
+    "1683844550007917:202371": {
+        "IResourceController": {
+            "name": "skirt_Metalness",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683844550008312:202372",
+            "fileId": "1683844549999378:202370",
+            "originalId": "1683844550008971:202377",
+            "publicId": "1683844550021737:202378",
+            "expected_hash": "7e40cd29d2528be87ff4da339d99da56",
+            "additional": {
+                "originHash": "b190974db0489c7a9287979bd75594ed"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683844550008312:202372",
+            "name": "Files/File_1683844549999378_202370.png",
+            "flags": 1
+        }
+    },
+    "1683844550008971:202377": {
+        "IFileManager": {
+            "path": "Files/File_1683844550008971_202377.png"
+        }
+    },
+    "1683844550021737:202378": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamFija/Textures/skirt_Metalness.png",
+                "hash": "b190974db0489c7a9287979bd75594ed"
+            }
+        }
+    }
+}

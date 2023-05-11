@@ -1,0 +1,24 @@
+{
+    "1683844711354805:273011": {
+        "IResourceController": {
+            "name": "skirt_fija_body_mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683844711354794:273010",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File_1683844711363098_273023.extmesh"
+                ],
+                "externalBodyMapFileID": "1683844711363098:273023",
+                "externalBodyMapFilepath": "Files/File_1683844711363098_273023.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683844711354794:273010",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

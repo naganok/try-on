@@ -15,7 +15,7 @@
             "fileId": "1683669391724333:161419",
             "originalId": "1683669391756227:161427",
             "publicId": "1683669391969024:161434",
-            "expected_hash": "0480888705b1b66f23bea580a7c035b4"
+            "expected_hash": "44f51592a893957276c9c4fe787a39e4"
         },
         "IResourceManager": {
             "uid": "1683669391728280:161421",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Roblox/TeamTaku/Materials/gloves_mat.lsmat",
-                "hash": "e723541ffffcd99596510fc9248d5aa4"
+                "hash": "127bfd6d6c30ce854cffff194049073e"
             }
         }
     }

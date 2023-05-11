@@ -1,0 +1,30 @@
+{
+    "1683844116295082:146438": {
+        "IResourceController": {
+            "name": "skirt_lensstudio",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1683844116295004:146428",
+            "fileId": "1683844116332329:146449",
+            "originalId": "1683844644749204:251924",
+            "expected_hash": "2ce63b97781732148a79f8f17817248b"
+        },
+        "IResourceManager": {
+            "uid": "1683844116295004:146428",
+            "name": "skirt_lensstudio",
+            "flags": 0
+        }
+    },
+    "1683844116332329:146449": {
+        "IFileManager": {
+            "path": "Files/File_1683844116332329_146449.oprfb"
+        }
+    },
+    "1683844644749204:251924": {
+        "IFileManager": {
+            "path": "Files/File_1683844644749204_251924.oprfb"
+        }
+    }
+}

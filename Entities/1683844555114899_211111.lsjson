@@ -1,0 +1,39 @@
+{
+    "1683844555109984:211110": {
+        "IFileManager": {
+            "path": "Files/File_1683844555109984_211110"
+        }
+    },
+    "1683844555114899:211111": {
+        "IResourceController": {
+            "name": "shirt_fija_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683844555114925:211112",
+            "fileId": "1683844555109984:211110",
+            "originalId": "1683844555152713:211117",
+            "publicId": "1683844555424551:211124",
+            "expected_hash": "2e427fa4d6185c29a1709491a6852a55"
+        },
+        "IResourceManager": {
+            "uid": "1683844555114925:211112",
+            "name": "Files/File_1683844555109984_211110",
+            "flags": 1
+        }
+    },
+    "1683844555152713:211117": {
+        "IFileManager": {
+            "path": "Files/File_1683844555152713_211117.lsmat"
+        }
+    },
+    "1683844555424551:211124": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamFija/Materials/shirt_fija_mat.lsmat",
+                "hash": "56153a13d94950821701c9118b748137"
+            }
+        }
+    }
+}

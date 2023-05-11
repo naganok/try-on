@@ -1,0 +1,79 @@
+{
+    "1683844545791603:193673": {
+        "IFileManager": {
+            "path": "Files/File_1683844545791603_193673.pvr"
+        }
+    },
+    "1683844545809855:193674": {
+        "IResourceController": {
+            "name": "shirt_BaseColor",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683844545811609:193675",
+            "fileId": "1683844545791603:193673",
+            "originalId": "1683844545813030:193680",
+            "publicId": "1683844545886618:193690",
+            "expected_hash": "aecfc0911e99291668447f73411508f0",
+            "additional": {
+                "originHash": "796edc867c6d851526801ea2f5a5b4b1"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683844545811609:193675",
+            "name": "Files/File_1683844545791603_193673.png",
+            "flags": 1
+        }
+    },
+    "1683844545811609:193675": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "796edc867c6d851526801ea2f5a5b4b1"
+                    },
+                    "v": "1683844576346043:219426"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "149196",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "709756",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683844545837065:193687"
+        }
+    },
+    "1683844545813030:193680": {
+        "IFileManager": {
+            "path": "Files/File_1683844545813030_193680.png"
+        }
+    },
+    "1683844545837065:193687": {
+        "IFileManager": {
+            "path": "Files/File_1683844545837065_193687.png"
+        }
+    },
+    "1683844545886618:193690": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamFija/Textures/shirt_BaseColor.png",
+                "hash": "796edc867c6d851526801ea2f5a5b4b1"
+            }
+        }
+    },
+    "1683844576346043:219426": {
+        "IFileManager": {
+            "path": "Files/File_1683844576346043_219426.pvr"
+        }
+    }
+}
