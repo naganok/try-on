@@ -1,0 +1,22 @@
+{
+    "1683906173716475:361839": {
+        "IResourceController": {
+            "name": "BodyMeshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683906173716750:361840",
+            "resources": [
+                "1683906184941410:363164"
+            ]
+        }
+    },
+    "1683906173716750:361840": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJuine/BodyMeshes"
+            }
+        }
+    }
+}

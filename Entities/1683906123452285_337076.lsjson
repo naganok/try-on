@@ -1,0 +1,39 @@
+{
+    "1683906123447107:337075": {
+        "IFileManager": {
+            "path": "Files/File_1683906123447107_337075"
+        }
+    },
+    "1683906123452285:337076": {
+        "IResourceController": {
+            "name": "bodysuit_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683906123452318:337077",
+            "fileId": "1683906123447107:337075",
+            "originalId": "1683906123489429:337083",
+            "publicId": "1683906123746036:337090",
+            "expected_hash": "44f51592a893957276c9c4fe787a39e4"
+        },
+        "IResourceManager": {
+            "uid": "1683906123452318:337077",
+            "name": "Files/File_1683906123447107_337075",
+            "flags": 1
+        }
+    },
+    "1683906123489429:337083": {
+        "IFileManager": {
+            "path": "Files/File_1683906123489429_337083.lsmat"
+        }
+    },
+    "1683906123746036:337090": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJuine/Materials/bodysuit_mat.lsmat",
+                "hash": "6158d0a21a0648b69694a76e155bd660"
+            }
+        }
+    }
+}

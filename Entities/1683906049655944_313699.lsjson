@@ -1,0 +1,44 @@
+{
+    "1683906049655944:313699": {
+        "IResourceController": {
+            "name": "bodysuit_lensstudio",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1683906051049558:313927",
+            "publicId": "1683906051084593:313932",
+            "expected_hash": "2530d59bda5c04f0da814c79c91b70c7",
+            "resources": [
+                "1683906050914513:313861",
+                "1683906051004554:313909"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": ""
+            }
+        }
+    },
+    "1683906051049558:313927": {
+        "IFileManager": {
+            "path": "Files/File_1683906051049558_313927.fbx"
+        }
+    },
+    "1683906051084593:313932": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJuine/Meshes/bodysuit_lensstudio.fbx",
+                "hash": "2530d59bda5c04f0da814c79c91b70c7"
+            }
+        }
+    }
+}

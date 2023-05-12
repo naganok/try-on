@@ -1,0 +1,25 @@
+{
+    "1683906083550867:322106": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683906083551224:322107",
+            "resources": [
+                "1683906098514597:323791",
+                "1683906098888106:323863",
+                "1683906099317220:325395",
+                "1683906101244179:328451"
+            ]
+        }
+    },
+    "1683906083551224:322107": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJuine/Textures"
+            }
+        }
+    }
+}

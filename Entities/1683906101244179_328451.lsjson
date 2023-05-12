@@ -1,0 +1,79 @@
+{
+    "1683906101187740:328450": {
+        "IFileManager": {
+            "path": "Files/File_1683906101187740_328450.pvr"
+        }
+    },
+    "1683906101244179:328451": {
+        "IResourceController": {
+            "name": "TXT_LCL_BodySuit_MET",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683906101245716:328452",
+            "fileId": "1683906101187740:328450",
+            "originalId": "1683906101247484:328457",
+            "publicId": "1683906101360510:328459",
+            "expected_hash": "4be49d996388d9671c8c7b7a8b7c6e85",
+            "additional": {
+                "originHash": "4901be563bf968b0c7c60a9e8dd79ef6"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683906101245716:328452",
+            "name": "Files/File_1683906101187740_328450.png",
+            "flags": 1
+        }
+    },
+    "1683906101245716:328452": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "4901be563bf968b0c7c60a9e8dd79ef6"
+                    },
+                    "v": "1683906151842169:346847"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "50944",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "108514",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1683906101286119:328458"
+        }
+    },
+    "1683906101247484:328457": {
+        "IFileManager": {
+            "path": "Files/File_1683906101247484_328457.png"
+        }
+    },
+    "1683906101286119:328458": {
+        "IFileManager": {
+            "path": "Files/File_1683906101286119_328458.png"
+        }
+    },
+    "1683906101360510:328459": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJuine/Textures/TXT_LCL_BodySuit_MET.png",
+                "hash": "4901be563bf968b0c7c60a9e8dd79ef6"
+            }
+        }
+    },
+    "1683906151842169:346847": {
+        "IFileManager": {
+            "path": "Files/File_1683906151842169_346847.pvr"
+        }
+    }
+}

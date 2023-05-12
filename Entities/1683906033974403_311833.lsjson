@@ -1,0 +1,22 @@
+{
+    "1683906033974403:311833": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683906033974603:311834",
+            "resources": [
+                "1683906049655944:313699"
+            ]
+        }
+    },
+    "1683906033974603:311834": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJuine/Meshes"
+            }
+        }
+    }
+}

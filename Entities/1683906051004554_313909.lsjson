@@ -1,0 +1,30 @@
+{
+    "1683906051004554:313909": {
+        "IResourceController": {
+            "name": "bodysuit_lensstudio",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1683906051003989:313899",
+            "fileId": "1683906051039080:313920",
+            "originalId": "1683906770205113:593450",
+            "expected_hash": "a0215c0ba3dc854817164e0f809e7940"
+        },
+        "IResourceManager": {
+            "uid": "1683906051003989:313899",
+            "name": "bodysuit_lensstudio",
+            "flags": 0
+        }
+    },
+    "1683906051039080:313920": {
+        "IFileManager": {
+            "path": "Files/File_1683906051039080_313920.oprfb"
+        }
+    },
+    "1683906770205113:593450": {
+        "IFileManager": {
+            "path": "Files/File_1683906770205113_593450.oprfb"
+        }
+    }
+}

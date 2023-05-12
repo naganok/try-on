@@ -1,0 +1,25 @@
+{
+    "1683906017362008:309935": {
+        "IResourceController": {
+            "name": "TeamJuine",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683906017362598:309936",
+            "resources": [
+                "1683906033974403:311833",
+                "1683906083550867:322106",
+                "1683906106778998:333186",
+                "1683906173716475:361839"
+            ]
+        }
+    },
+    "1683906017362598:309936": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJuine"
+            }
+        }
+    }
+}
