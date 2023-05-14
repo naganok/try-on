@@ -1,0 +1,44 @@
+{
+    "1684043383161199:27912": {
+        "IResourceController": {
+            "name": "Arm",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1684043386491219:28075",
+            "publicId": "1684043386511650:28082",
+            "expected_hash": "18be9b71b489ef81e15d5c091fe123a4",
+            "resources": [
+                "1684043386368195:27931",
+                "1684043386449935:28055"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": ""
+            }
+        }
+    },
+    "1684043386491219:28075": {
+        "IFileManager": {
+            "path": "Files/File_1684043386491219_28075.fbx"
+        }
+    },
+    "1684043386511650:28082": {
+        "IResourceController": {
+            "public": {
+                "path": "Arm.fbx",
+                "hash": "18be9b71b489ef81e15d5c091fe123a4"
+            }
+        }
+    }
+}

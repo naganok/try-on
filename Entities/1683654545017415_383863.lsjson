@@ -15,7 +15,7 @@
             "fileId": "1683654545010813:383860",
             "originalId": "1683654545050185:383868",
             "publicId": "1683654546233308:384031",
-            "expected_hash": "e2ff7e7b7c4e4c85b3790aedb32644c4"
+            "expected_hash": "2e427fa4d6185c29a1709491a6852a55"
         },
         "IResourceManager": {
             "uid": "1683654545017422:383864",
@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Roblox/TeamTaku/Materials/boneskirt_mat.lsmat",
-                "hash": "642748352f56c9c5fa148b810952b6a4"
+                "hash": "9f9125638162a9ba5f24b4e0900e915b"
             }
         }
     }

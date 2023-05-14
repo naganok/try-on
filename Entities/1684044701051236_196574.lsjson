@@ -1,0 +1,44 @@
+{
+    "1684044701051236:196574": {
+        "IResourceController": {
+            "name": "artificialglove_lensstudio3",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1684044702439437:196658",
+            "publicId": "1684044702466554:196661",
+            "expected_hash": "09ebc3bdcd2ec980039bfe9c7d669fc0",
+            "resources": [
+                "1684044702354051:196588",
+                "1684044702398776:196648"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": ""
+            }
+        }
+    },
+    "1684044702439437:196658": {
+        "IFileManager": {
+            "path": "Files/File_1684044702439437_196658.fbx"
+        }
+    },
+    "1684044702466554:196661": {
+        "IResourceController": {
+            "public": {
+                "path": "artificialglove_lensstudio3.fbx",
+                "hash": "09ebc3bdcd2ec980039bfe9c7d669fc0"
+            }
+        }
+    }
+}

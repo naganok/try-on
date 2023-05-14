@@ -1,0 +1,30 @@
+{
+    "1684043386449935:28055": {
+        "IResourceController": {
+            "name": "Arm",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1684043386449816:28021",
+            "fileId": "1684043386480341:28074",
+            "originalId": "1684045964078300:227944",
+            "expected_hash": "83d16ddb62fcf3069006feef291dcc8c"
+        },
+        "IResourceManager": {
+            "uid": "1684043386449816:28021",
+            "name": "Arm",
+            "flags": 0
+        }
+    },
+    "1684043386480341:28074": {
+        "IFileManager": {
+            "path": "Files/File_1684043386480341_28074.oprfb"
+        }
+    },
+    "1684045964078300:227944": {
+        "IFileManager": {
+            "path": "Files/File_1684045964078300_227944.oprfb"
+        }
+    }
+}
