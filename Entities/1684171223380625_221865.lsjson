@@ -1,0 +1,79 @@
+{
+    "1684171223329273:221856": {
+        "IFileManager": {
+            "path": "Files/File_1684171223329273_221856.pvr"
+        }
+    },
+    "1684171223380625:221865": {
+        "IResourceController": {
+            "name": "dress_Base_color",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684171223388309:221866",
+            "fileId": "1684171223329273:221856",
+            "originalId": "1684171223392681:221873",
+            "publicId": "1684171223695437:221921",
+            "expected_hash": "da2dc3c3be321959e69d34468830e68d",
+            "additional": {
+                "originHash": "9962b9d5e30dbe875b02bc6a92685797"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684171223388309:221866",
+            "name": "Files/File_1684171223329273_221856.png",
+            "flags": 1
+        }
+    },
+    "1684171223388309:221866": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "9962b9d5e30dbe875b02bc6a92685797"
+                    },
+                    "v": "1684171320146372:257160"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "854171",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "3702028",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1684171223486303:221890"
+        }
+    },
+    "1684171223392681:221873": {
+        "IFileManager": {
+            "path": "Files/File_1684171223392681_221873.png"
+        }
+    },
+    "1684171223486303:221890": {
+        "IFileManager": {
+            "path": "Files/File_1684171223486303_221890.png"
+        }
+    },
+    "1684171223695437:221921": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamAngela/Textures/dress_Base_color.png",
+                "hash": "9962b9d5e30dbe875b02bc6a92685797"
+            }
+        }
+    },
+    "1684171320146372:257160": {
+        "IFileManager": {
+            "path": "Files/File_1684171320146372_257160.pvr"
+        }
+    }
+}

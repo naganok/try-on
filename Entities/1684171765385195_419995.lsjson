@@ -1,0 +1,30 @@
+{
+    "1684171765385195:419995": {
+        "IResourceController": {
+            "name": "cords_lensstudio",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1684171765385092:419979",
+            "fileId": "1684171765436172:420023",
+            "originalId": "1684171779245662:429130",
+            "expected_hash": "78ffe287bba20a05dd41593fdbdc390c"
+        },
+        "IResourceManager": {
+            "uid": "1684171765385092:419979",
+            "name": "cords_lensstudio",
+            "flags": 0
+        }
+    },
+    "1684171765436172:420023": {
+        "IFileManager": {
+            "path": "Files/File_1684171765436172_420023.oprfb"
+        }
+    },
+    "1684171779245662:429130": {
+        "IFileManager": {
+            "path": "Files/File_1684171779245662_429130.oprfb"
+        }
+    }
+}

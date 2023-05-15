@@ -1,0 +1,49 @@
+{
+    "1684171184872644:208910": {
+        "IResourceController": {
+            "name": "dress_lensstudio",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1684171189739057:209850",
+            "publicId": "1684171189785036:209867",
+            "expected_hash": "2cb83eb7ea1ecc14ddfc4f2689665a9f",
+            "resources": [
+                "1684171188505039:209519",
+                "1684171189673918:209821"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1684171188588898:209556"
+                    }
+                ]
+            }
+        }
+    },
+    "1684171189739057:209850": {
+        "IFileManager": {
+            "path": "Files/File_1684171189739057_209850.fbx"
+        }
+    },
+    "1684171189785036:209867": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamAngela/Meshes/dress_lensstudio.fbx",
+                "hash": "2cb83eb7ea1ecc14ddfc4f2689665a9f"
+            }
+        }
+    }
+}

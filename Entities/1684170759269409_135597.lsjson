@@ -1,0 +1,23 @@
+{
+    "1684170759269409:135597": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684170759269736:135598",
+            "resources": [
+                "1684171184872644:208910",
+                "1684171762635368:419444"
+            ]
+        }
+    },
+    "1684170759269736:135598": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamAngela/Meshes"
+            }
+        }
+    }
+}

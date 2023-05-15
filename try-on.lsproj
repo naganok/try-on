@@ -56,7 +56,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Dance.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "project:Images\/try_on_preview_2.png",
+                "front_preview_id": "project:Images\/try_on_preview_1.png",
                 "front_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
@@ -396,6 +396,50 @@
                                 "Component.RenderMeshVisual"
                             ],
                             "v": "1683906050986670:313888"
+                        }
+                    ]
+                },
+                {
+                    "k": "1684171189673698:209805",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1684171189664123:209788"
+                        },
+                        {
+                            "k": [
+                                "DRESS"
+                            ],
+                            "v": "1684171189668130:209790"
+                        },
+                        {
+                            "k": [
+                                "DRESS",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1684171189670390:209794"
+                        }
+                    ]
+                },
+                {
+                    "k": "1684171765385092:419979",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1684171765376449:419964"
+                        },
+                        {
+                            "k": [
+                                "CORD"
+                            ],
+                            "v": "1684171765379930:419966"
+                        },
+                        {
+                            "k": [
+                                "CORD",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1684171765382307:419968"
                         }
                     ]
                 }

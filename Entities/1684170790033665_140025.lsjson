@@ -1,0 +1,23 @@
+{
+    "1684170790033665:140025": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684170790033911:140026",
+            "resources": [
+                "1684171243723264:232907",
+                "1684171896202366:463063"
+            ]
+        }
+    },
+    "1684170790033911:140026": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamAngela/Materials"
+            }
+        }
+    }
+}

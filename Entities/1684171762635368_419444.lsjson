@@ -1,0 +1,49 @@
+{
+    "1684171762635368:419444": {
+        "IResourceController": {
+            "name": "cords_lensstudio",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1684171765446188:420024",
+            "publicId": "1684171765526245:420035",
+            "expected_hash": "7698a98c4b1714afec6dcc2243259200",
+            "resources": [
+                "1684171764288738:419727",
+                "1684171765385195:419995"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Tube_6",
+                        "v": "1684171764365813:419762"
+                    }
+                ]
+            }
+        }
+    },
+    "1684171765446188:420024": {
+        "IFileManager": {
+            "path": "Files/File_1684171765446188_420024.fbx"
+        }
+    },
+    "1684171765526245:420035": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamAngela/Meshes/cords_lensstudio.fbx",
+                "hash": "7698a98c4b1714afec6dcc2243259200"
+            }
+        }
+    }
+}

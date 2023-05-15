@@ -1,0 +1,24 @@
+{
+    "1684171937566809:482464": {
+        "IResourceController": {
+            "name": "angela_cords_body_mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684171937566801:482463",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File_1684171937576753_482474.extmesh"
+                ],
+                "externalBodyMapFileID": "1684171937576753:482474",
+                "externalBodyMapFilepath": "Files/File_1684171937576753_482474.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684171937566801:482463",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

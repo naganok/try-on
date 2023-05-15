@@ -1,0 +1,23 @@
+{
+    "1684170803039297:141923": {
+        "IResourceController": {
+            "name": "BodyMeshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684170803039798:141924",
+            "resources": [
+                "1684171289290814:252419",
+                "1684171937566809:482464"
+            ]
+        }
+    },
+    "1684170803039798:141924": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamAngela/BodyMeshes"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1684171289290814:252419": {
+        "IResourceController": {
+            "name": "angela_dress_body_mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684171289290775:252418",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File_1684171328240264_262532.extmesh"
+                ],
+                "externalBodyMapFileID": "1684171328240264:262532",
+                "externalBodyMapFilepath": "Files/File_1684171328240264_262532.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684171289290775:252418",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

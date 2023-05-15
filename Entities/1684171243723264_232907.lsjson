@@ -1,0 +1,39 @@
+{
+    "1684171243718422:232906": {
+        "IFileManager": {
+            "path": "Files/File_1684171243718422_232906"
+        }
+    },
+    "1684171243723264:232907": {
+        "IResourceController": {
+            "name": "angela_dress_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684171243723277:232908",
+            "fileId": "1684171243718422:232906",
+            "originalId": "1684171243756931:232914",
+            "publicId": "1684171243996577:232921",
+            "expected_hash": "44f51592a893957276c9c4fe787a39e4"
+        },
+        "IResourceManager": {
+            "uid": "1684171243723277:232908",
+            "name": "Files/File_1684171243718422_232906",
+            "flags": 1
+        }
+    },
+    "1684171243756931:232914": {
+        "IFileManager": {
+            "path": "Files/File_1684171243756931_232914.lsmat"
+        }
+    },
+    "1684171243996577:232921": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamAngela/Materials/angela_dress_mat.lsmat",
+                "hash": "db3caf6d0fb549a95e722a1eed406593"
+            }
+        }
+    }
+}

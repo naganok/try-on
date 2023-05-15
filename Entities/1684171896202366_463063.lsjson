@@ -1,0 +1,39 @@
+{
+    "1684171896194988:463062": {
+        "IFileManager": {
+            "path": "Files/File_1684171896194988_463062"
+        }
+    },
+    "1684171896202366:463063": {
+        "IResourceController": {
+            "name": "angela_cords_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684171896202374:463064",
+            "fileId": "1684171896194988:463062",
+            "originalId": "1684171896240706:463068",
+            "publicId": "1684171896512559:463075",
+            "expected_hash": "44f51592a893957276c9c4fe787a39e4"
+        },
+        "IResourceManager": {
+            "uid": "1684171896202374:463064",
+            "name": "Files/File_1684171896194988_463062",
+            "flags": 1
+        }
+    },
+    "1684171896240706:463068": {
+        "IFileManager": {
+            "path": "Files/File_1684171896240706_463068.lsmat"
+        }
+    },
+    "1684171896512559:463075": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamAngela/Materials/angela_cords_mat.lsmat",
+                "hash": "2052b5a87e36390f610116247fafb0e8"
+            }
+        }
+    }
+}

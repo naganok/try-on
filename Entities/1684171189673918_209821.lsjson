@@ -1,0 +1,30 @@
+{
+    "1684171189673918:209821": {
+        "IResourceController": {
+            "name": "dress_lensstudio",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1684171189673698:209805",
+            "fileId": "1684171189728029:209849",
+            "originalId": "1684171474161833:336885",
+            "expected_hash": "bec58d8ab0f1d0f6e193ab440a4d9acd"
+        },
+        "IResourceManager": {
+            "uid": "1684171189673698:209805",
+            "name": "dress_lensstudio",
+            "flags": 0
+        }
+    },
+    "1684171189728029:209849": {
+        "IFileManager": {
+            "path": "Files/File_1684171189728029_209849.oprfb"
+        }
+    },
+    "1684171474161833:336885": {
+        "IFileManager": {
+            "path": "Files/File_1684171474161833_336885.oprfb"
+        }
+    }
+}
