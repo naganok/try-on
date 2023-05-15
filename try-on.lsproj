@@ -132,7 +132,120 @@
         "InspectorController": "",
         "ObjectPrefabController": {
             "state": {
-                "objectToInfo": ""
+                "objectToInfo": [
+                    {
+                        "k": "1684169737376318:82305",
+                        "v": {
+                            "prefab": "1684169730702145:77001",
+                            "mapping": [
+                                {
+                                    "k": "1684169730623795:76932",
+                                    "v": "1684169737376318:82305"
+                                },
+                                {
+                                    "k": "1684169730627924:76934",
+                                    "v": "1684169737379582:82309"
+                                },
+                                {
+                                    "k": "1684169730630992:76936",
+                                    "v": "1684169737382595:82311"
+                                },
+                                {
+                                    "k": "1684169730633808:76938",
+                                    "v": "1684169737385685:82313"
+                                },
+                                {
+                                    "k": "1684169730635675:76949",
+                                    "v": "1684169737388902:82327"
+                                },
+                                {
+                                    "k": "1684169730638485:76951",
+                                    "v": "1684169737392039:82329"
+                                },
+                                {
+                                    "k": "1684169730641784:76953",
+                                    "v": "1684169737394885:82331"
+                                },
+                                {
+                                    "k": "1684169730645148:76955",
+                                    "v": "1684169737397658:82333"
+                                },
+                                {
+                                    "k": "1684169730648703:76959",
+                                    "v": "1684169737400843:82335"
+                                },
+                                {
+                                    "k": "1684169730652323:76961",
+                                    "v": "1684169737403910:82337"
+                                },
+                                {
+                                    "k": "1684169730655236:76963",
+                                    "v": "1684169737408996:82341"
+                                },
+                                {
+                                    "k": "1684169730657827:76965",
+                                    "v": "1684169737412727:82347"
+                                },
+                                {
+                                    "k": "1684169730660462:76967",
+                                    "v": "1684169737415583:82349"
+                                },
+                                {
+                                    "k": "1684169730663483:76969",
+                                    "v": "1684169737418451:82351"
+                                },
+                                {
+                                    "k": "1684169730666481:76971",
+                                    "v": "1684169737425418:82357"
+                                },
+                                {
+                                    "k": "1684169730669277:76973",
+                                    "v": "1684169737428794:82361"
+                                },
+                                {
+                                    "k": "1684169730671860:76975",
+                                    "v": "1684169737431660:82363"
+                                },
+                                {
+                                    "k": "1684169730674445:76977",
+                                    "v": "1684169737434483:82365"
+                                },
+                                {
+                                    "k": "1684169730677456:76979",
+                                    "v": "1684169737442338:82372"
+                                },
+                                {
+                                    "k": "1684169730680631:76987",
+                                    "v": "1684169737446221:82376"
+                                },
+                                {
+                                    "k": "1684169730683591:76989",
+                                    "v": "1684169737449426:82378"
+                                },
+                                {
+                                    "k": "1684169730686879:76991",
+                                    "v": "1684169737453561:82380"
+                                },
+                                {
+                                    "k": "1684169730689905:76993",
+                                    "v": "1684169737463894:82386"
+                                },
+                                {
+                                    "k": "1684169730692586:76995",
+                                    "v": "1684169737467580:82388"
+                                },
+                                {
+                                    "k": "1684169730695712:76997",
+                                    "v": "1684169737471356:82390"
+                                },
+                                {
+                                    "k": "1684169730699105:76999",
+                                    "v": "1684169737475135:82392"
+                                }
+                            ]
+                        }
+                    }
+                ]
             },
             "importInfo": [
                 {
@@ -396,6 +509,564 @@
                                 "Component.RenderMeshVisual"
                             ],
                             "v": "1683906050986670:313888"
+                        }
+                    ]
+                },
+                {
+                    "k": "1684169653312162:35728",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1684169653251117:35665"
+                        },
+                        {
+                            "k": [
+                                "Armature"
+                            ],
+                            "v": "1684169653254457:35667"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root"
+                            ],
+                            "v": "1684169653260938:35682"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode"
+                            ],
+                            "v": "1684169653263068:35684"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso"
+                            ],
+                            "v": "1684169653265208:35686"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "LeftUpperLeg"
+                            ],
+                            "v": "1684169653293345:35712"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "LeftUpperLeg",
+                                "LeftLowerLeg"
+                            ],
+                            "v": "1684169653295720:35714"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "LeftUpperLeg",
+                                "LeftLowerLeg",
+                                "LeftFoot"
+                            ],
+                            "v": "1684169653298014:35716"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "LeftUpperLeg",
+                                "LeftLowerLeg",
+                                "LeftFoot",
+                                "LeftFoot_end"
+                            ],
+                            "v": "1684169653300267:35718"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "RightUpperLeg"
+                            ],
+                            "v": "1684169653302750:35720"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "RightUpperLeg",
+                                "RightLowerLeg"
+                            ],
+                            "v": "1684169653304891:35722"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "RightUpperLeg",
+                                "RightLowerLeg",
+                                "RightFoot"
+                            ],
+                            "v": "1684169653307040:35724"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "RightUpperLeg",
+                                "RightLowerLeg",
+                                "RightFoot",
+                                "RightFoot_end"
+                            ],
+                            "v": "1684169653309444:35726"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso"
+                            ],
+                            "v": "1684169653267336:35688"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "Head"
+                            ],
+                            "v": "1684169653269452:35690"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "Head",
+                                "Head_end"
+                            ],
+                            "v": "1684169653271556:35692"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "LeftUpperArm"
+                            ],
+                            "v": "1684169653273664:35694"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "LeftUpperArm",
+                                "LeftLowerArm"
+                            ],
+                            "v": "1684169653275882:35696"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "LeftUpperArm",
+                                "LeftLowerArm",
+                                "LeftHand"
+                            ],
+                            "v": "1684169653278084:35698"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "LeftUpperArm",
+                                "LeftLowerArm",
+                                "LeftHand",
+                                "LeftHand_end"
+                            ],
+                            "v": "1684169653280337:35700"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "RightUpperArm"
+                            ],
+                            "v": "1684169653283241:35703"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "RightUpperArm",
+                                "RightLowerArm"
+                            ],
+                            "v": "1684169653285548:35706"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "RightUpperArm",
+                                "RightLowerArm",
+                                "RightHand"
+                            ],
+                            "v": "1684169653288421:35708"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "RightUpperArm",
+                                "RightLowerArm",
+                                "RightHand",
+                                "RightHand_end"
+                            ],
+                            "v": "1684169653290758:35710"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "artificialgloves_2.6K"
+                            ],
+                            "v": "1684169653256578:35669"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "artificialgloves_2.6K",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1684169653258870:35671"
+                        }
+                    ]
+                },
+                {
+                    "k": "1684169730702145:77001",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1684169730623795:76932"
+                        },
+                        {
+                            "k": [
+                                "Armature"
+                            ],
+                            "v": "1684169730627924:76934"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root"
+                            ],
+                            "v": "1684169730635675:76949"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode"
+                            ],
+                            "v": "1684169730638485:76951"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso"
+                            ],
+                            "v": "1684169730641784:76953"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "LeftUpperLeg"
+                            ],
+                            "v": "1684169730677456:76979"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "LeftUpperLeg",
+                                "LeftLowerLeg"
+                            ],
+                            "v": "1684169730680631:76987"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "LeftUpperLeg",
+                                "LeftLowerLeg",
+                                "LeftFoot"
+                            ],
+                            "v": "1684169730683591:76989"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "LeftUpperLeg",
+                                "LeftLowerLeg",
+                                "LeftFoot",
+                                "LeftFoot_end"
+                            ],
+                            "v": "1684169730686879:76991"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "RightUpperLeg"
+                            ],
+                            "v": "1684169730689905:76993"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "RightUpperLeg",
+                                "RightLowerLeg"
+                            ],
+                            "v": "1684169730692586:76995"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "RightUpperLeg",
+                                "RightLowerLeg",
+                                "RightFoot"
+                            ],
+                            "v": "1684169730695712:76997"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "RightUpperLeg",
+                                "RightLowerLeg",
+                                "RightFoot",
+                                "RightFoot_end"
+                            ],
+                            "v": "1684169730699105:76999"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso"
+                            ],
+                            "v": "1684169730645148:76955"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "Head"
+                            ],
+                            "v": "1684169730648703:76959"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "Head",
+                                "Head_end"
+                            ],
+                            "v": "1684169730652323:76961"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "LeftUpperArm"
+                            ],
+                            "v": "1684169730655236:76963"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "LeftUpperArm",
+                                "LeftLowerArm"
+                            ],
+                            "v": "1684169730657827:76965"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "LeftUpperArm",
+                                "LeftLowerArm",
+                                "LeftHand"
+                            ],
+                            "v": "1684169730660462:76967"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "LeftUpperArm",
+                                "LeftLowerArm",
+                                "LeftHand",
+                                "LeftHand_end"
+                            ],
+                            "v": "1684169730663483:76969"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "RightUpperArm"
+                            ],
+                            "v": "1684169730666481:76971"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "RightUpperArm",
+                                "RightLowerArm"
+                            ],
+                            "v": "1684169730669277:76973"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "RightUpperArm",
+                                "RightLowerArm",
+                                "RightHand"
+                            ],
+                            "v": "1684169730671860:76975"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "Root",
+                                "HumanoidRootNode",
+                                "LowerTorso",
+                                "UpperTorso",
+                                "RightUpperArm",
+                                "RightLowerArm",
+                                "RightHand",
+                                "RightHand_end"
+                            ],
+                            "v": "1684169730674445:76977"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "artificialgloves_2.6K"
+                            ],
+                            "v": "1684169730630992:76936"
+                        },
+                        {
+                            "k": [
+                                "Armature",
+                                "artificialgloves_2.6K",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1684169730633808:76938"
                         }
                     ]
                 }
