@@ -1,0 +1,79 @@
+{
+    "1684190465710433:530324": {
+        "IFileManager": {
+            "path": "Files/File_1684190465710433_530324.pvr"
+        }
+    },
+    "1684190465753332:530327": {
+        "IResourceController": {
+            "name": "top-nor",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684190465756944:530328",
+            "fileId": "1684190465710433:530324",
+            "originalId": "1684190465758919:530337",
+            "publicId": "1684190465891279:530351",
+            "expected_hash": "4b4cbc5c7830a5f1f7978a7f816a7818",
+            "additional": {
+                "originHash": "ab3e25a23d72d221a66f5fca6ab0d040"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684190465756944:530328",
+            "name": "Files/File_1684190465710433_530324.png",
+            "flags": 1
+        }
+    },
+    "1684190465756944:530328": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ab3e25a23d72d221a66f5fca6ab0d040"
+                    },
+                    "v": "1684190487870437:551899"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "390837",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "1743312",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1684190465797345:530340"
+        }
+    },
+    "1684190465758919:530337": {
+        "IFileManager": {
+            "path": "Files/File_1684190465758919_530337.png"
+        }
+    },
+    "1684190465797345:530340": {
+        "IFileManager": {
+            "path": "Files/File_1684190465797345_530340.png"
+        }
+    },
+    "1684190465891279:530351": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/SoloBihan/Textures/top-nor.png",
+                "hash": "ab3e25a23d72d221a66f5fca6ab0d040"
+            }
+        }
+    },
+    "1684190487870437:551899": {
+        "IFileManager": {
+            "path": "Files/File_1684190487870437_551899.pvr"
+        }
+    }
+}

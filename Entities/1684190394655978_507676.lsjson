@@ -1,0 +1,25 @@
+{
+    "1684190394655978:507676": {
+        "IResourceController": {
+            "name": "SoloBihan",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684190394656213:507677",
+            "resources": [
+                "1684190404895856:508692",
+                "1684190455113507:529284",
+                "1684190472007192:538299",
+                "1684190643523329:619399"
+            ]
+        }
+    },
+    "1684190394656213:507677": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/SoloBihan"
+            }
+        }
+    }
+}

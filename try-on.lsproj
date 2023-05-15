@@ -33,7 +33,7 @@
         },
         "Material::UiComponent": "",
         "MetaInfoUIComponent": {
-            "icon_hash": "7fb950ecd32bf51e835706b80e632c1b",
+            "icon_hash": "99c072ee5875c390bf89a222529551e9",
             "icon_path": "icon.png",
             "hints": [
                 ""
@@ -484,6 +484,50 @@
                                 "Component.RenderMeshVisual"
                             ],
                             "v": "1684177702015128:63383"
+                        }
+                    ]
+                },
+                {
+                    "k": "1684190425370586:510876",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1684190425362265:510861"
+                        },
+                        {
+                            "k": [
+                                "FeatherBottom"
+                            ],
+                            "v": "1684190425366036:510863"
+                        },
+                        {
+                            "k": [
+                                "FeatherBottom",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1684190425368054:510865"
+                        }
+                    ]
+                },
+                {
+                    "k": "1684190441227232:517522",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1684190441220426:517507"
+                        },
+                        {
+                            "k": [
+                                "FeatherTop"
+                            ],
+                            "v": "1684190441223122:517509"
+                        },
+                        {
+                            "k": [
+                                "FeatherTop",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1684190441225001:517511"
                         }
                     ]
                 }

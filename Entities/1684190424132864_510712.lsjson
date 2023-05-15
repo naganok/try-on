@@ -1,0 +1,44 @@
+{
+    "1684190424132864:510712": {
+        "IResourceController": {
+            "name": "bottom_bihan",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1684190425409824:510898",
+            "publicId": "1684190425448302:510907",
+            "expected_hash": "00acd10bb130fcb155f97ec7cc530669",
+            "resources": [
+                "1684190425297183:510838",
+                "1684190425370682:510886"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": ""
+            }
+        }
+    },
+    "1684190425409824:510898": {
+        "IFileManager": {
+            "path": "Files/File_1684190425409824_510898.fbx"
+        }
+    },
+    "1684190425448302:510907": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/SoloBihan/Meshes/bottom_bihan.fbx",
+                "hash": "00acd10bb130fcb155f97ec7cc530669"
+            }
+        }
+    }
+}

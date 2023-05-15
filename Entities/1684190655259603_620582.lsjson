@@ -1,0 +1,24 @@
+{
+    "1684190655259603:620582": {
+        "IResourceController": {
+            "name": "bihan_top_body_mesh",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684190655259585:620581",
+            "additional": {
+                "_exteraFile_": [
+                    "Files/File_1684190684774421_628752.extmesh"
+                ],
+                "externalBodyMapFileID": "1684190684774421:628752",
+                "externalBodyMapFilepath": "Files/File_1684190684774421_628752.extmesh"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684190655259585:620581",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1684190495306717:555067": {
+        "IFileManager": {
+            "path": "Files/File_1684190495306717_555067"
+        }
+    },
+    "1684190495313597:555068": {
+        "IResourceController": {
+            "name": "bihan_top_mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684190495313611:555069",
+            "fileId": "1684190495306717:555067",
+            "originalId": "1684190495359098:555075",
+            "publicId": "1684190495964106:555082",
+            "expected_hash": "44f51592a893957276c9c4fe787a39e4"
+        },
+        "IResourceManager": {
+            "uid": "1684190495313611:555069",
+            "name": "Files/File_1684190495306717_555067",
+            "flags": 1
+        }
+    },
+    "1684190495359098:555075": {
+        "IFileManager": {
+            "path": "Files/File_1684190495359098_555075.lsmat"
+        }
+    },
+    "1684190495964106:555082": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/SoloBihan/Materials/bihan_top_mat.lsmat",
+                "hash": "a58223b4c54d26e0eb4cf091570e5e55"
+            }
+        }
+    }
+}

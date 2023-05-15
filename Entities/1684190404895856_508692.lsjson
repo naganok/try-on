@@ -1,0 +1,23 @@
+{
+    "1684190404895856:508692": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684190404896161:508693",
+            "resources": [
+                "1684190424132864:510712",
+                "1684190439014233:517207"
+            ]
+        }
+    },
+    "1684190404896161:508693": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/SoloBihan/Meshes"
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1684190643523329:619399": {
+        "IResourceController": {
+            "name": "BodyMeshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684190643523562:619400",
+            "resources": [
+                "1684190655259603:620582",
+                "1684190688763158:631706"
+            ]
+        }
+    },
+    "1684190643523562:619400": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/SoloBihan/BodyMeshes"
+            }
+        }
+    }
+}

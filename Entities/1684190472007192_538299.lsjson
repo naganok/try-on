@@ -1,0 +1,23 @@
+{
+    "1684190472007192:538299": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684190472007804:538300",
+            "resources": [
+                "1684190495313597:555068",
+                "1684190592543513:595368"
+            ]
+        }
+    },
+    "1684190472007804:538300": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/SoloBihan/Materials"
+            }
+        }
+    }
+}
