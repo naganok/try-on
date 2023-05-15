@@ -1,0 +1,79 @@
+{
+    "1684177880160793:94898": {
+        "IFileManager": {
+            "path": "Files/File_1684177880160793_94898.pvr"
+        }
+    },
+    "1684177880220308:95113": {
+        "IResourceController": {
+            "name": "waterwave-met01",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684177880221371:95142",
+            "fileId": "1684177880160793:94898",
+            "originalId": "1684177880222521:95152",
+            "publicId": "1684177880336474:95977",
+            "expected_hash": "4293cce60de3990622d54078bd92f911",
+            "additional": {
+                "originHash": "96c2fe16af4c668445ae81200653828f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684177880221371:95142",
+            "name": "Files/File_1684177880160793_94898.png",
+            "flags": 1
+        }
+    },
+    "1684177880221371:95142": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "96c2fe16af4c668445ae81200653828f"
+                    },
+                    "v": "1684177906782246:113572"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "68991",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "193002",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1684177880264722:95313"
+        }
+    },
+    "1684177880222521:95152": {
+        "IFileManager": {
+            "path": "Files/File_1684177880222521_95152.png"
+        }
+    },
+    "1684177880264722:95313": {
+        "IFileManager": {
+            "path": "Files/File_1684177880264722_95313.png"
+        }
+    },
+    "1684177880336474:95977": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJasmine/Textures/waterwave-met01.png",
+                "hash": "96c2fe16af4c668445ae81200653828f"
+            }
+        }
+    },
+    "1684177906782246:113572": {
+        "IFileManager": {
+            "path": "Files/File_1684177906782246_113572.pvr"
+        }
+    }
+}

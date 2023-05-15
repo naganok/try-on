@@ -1,0 +1,49 @@
+{
+    "1684177678358158:51149": {
+        "IResourceController": {
+            "name": "dress_jasmine",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1684177681394362:51560",
+            "publicId": "1684177681439921:51563",
+            "expected_hash": "5fdd9b7c024f39d19f80cc7208e9175a",
+            "resources": [
+                "1684177679863296:51309",
+                "1684177681230188:51529"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1684177679930143:51336"
+                    }
+                ]
+            }
+        }
+    },
+    "1684177681394362:51560": {
+        "IFileManager": {
+            "path": "Files/File_1684177681394362_51560.fbx"
+        }
+    },
+    "1684177681439921:51563": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJasmine/Meshes/dress_jasmine.fbx",
+                "hash": "5fdd9b7c024f39d19f80cc7208e9175a"
+            }
+        }
+    }
+}

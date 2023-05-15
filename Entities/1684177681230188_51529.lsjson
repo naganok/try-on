@@ -1,0 +1,30 @@
+{
+    "1684177681230188:51529": {
+        "IResourceController": {
+            "name": "dress_jasmine",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1684177681230061:51513",
+            "fileId": "1684177681282635:51551",
+            "originalId": "1684177707318732:68518",
+            "expected_hash": "0fcf89b3500e3d2481cf6b2c364cb053"
+        },
+        "IResourceManager": {
+            "uid": "1684177681230061:51513",
+            "name": "dress_jasmine",
+            "flags": 0
+        }
+    },
+    "1684177681282635:51551": {
+        "IFileManager": {
+            "path": "Files/File_1684177681282635_51551.oprfb"
+        }
+    },
+    "1684177707318732:68518": {
+        "IFileManager": {
+            "path": "Files/File_1684177707318732_68518.oprfb"
+        }
+    }
+}

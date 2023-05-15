@@ -1,0 +1,25 @@
+{
+    "1684177517922460:35172": {
+        "IResourceController": {
+            "name": "TeamJasmine",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684177517922750:35173",
+            "resources": [
+                "1684177527624883:36000",
+                "1684177755928879:77789",
+                "1684177765469617:78637",
+                "1684177777431987:79779"
+            ]
+        }
+    },
+    "1684177517922750:35173": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJasmine"
+            }
+        }
+    }
+}

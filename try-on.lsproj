@@ -56,7 +56,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Dance.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "project:Images\/try_on_preview_1.png",
+                "front_preview_id": "project:Images\/try_on_preview_2.png",
                 "front_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
@@ -440,6 +440,50 @@
                                 "Component.RenderMeshVisual"
                             ],
                             "v": "1684171765382307:419968"
+                        }
+                    ]
+                },
+                {
+                    "k": "1684177681230061:51513",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1684177681221214:51498"
+                        },
+                        {
+                            "k": [
+                                "Waterdress"
+                            ],
+                            "v": "1684177681224921:51500"
+                        },
+                        {
+                            "k": [
+                                "Waterdress",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1684177681227433:51502"
+                        }
+                    ]
+                },
+                {
+                    "k": "1684177702017207:63394",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1684177702008902:63379"
+                        },
+                        {
+                            "k": [
+                                "Hat_Sunhat_001"
+                            ],
+                            "v": "1684177702012940:63381"
+                        },
+                        {
+                            "k": [
+                                "Hat_Sunhat_001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1684177702015128:63383"
                         }
                     ]
                 }

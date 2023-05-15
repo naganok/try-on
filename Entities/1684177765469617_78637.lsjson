@@ -1,0 +1,22 @@
+{
+    "1684177765469617:78637": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684177765470091:78638",
+            "resources": [
+                "1684177895183193:104967"
+            ]
+        }
+    },
+    "1684177765470091:78638": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJasmine/Materials"
+            }
+        }
+    }
+}

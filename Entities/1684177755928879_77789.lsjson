@@ -1,0 +1,25 @@
+{
+    "1684177755928879:77789": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1684177755929118:77790",
+            "resources": [
+                "1684177879385500:94202",
+                "1684177879845168:94284",
+                "1684177880220308:95113",
+                "1684177882385631:99286"
+            ]
+        }
+    },
+    "1684177755929118:77790": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJasmine/Textures"
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "1684177701949534:63357": {
+        "IFileManager": {
+            "path": "Files/File_1684177701949534_63357.mesh"
+        }
+    },
+    "1684177701960137:63360": {
+        "IResourceController": {
+            "name": "Hat_Sunhat_001",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1684177701982624:63362",
+            "fileId": "1684177701949534:63357",
+            "expected_hash": "24522f0c51fa46e3ebae9db1321f1476",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "3",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684177701982624:63362",
+            "name": "Files/File_1684177701949534_63357.mesh",
+            "flags": 1
+        }
+    },
+    "1684177701982624:63362": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "179276",
+                "compressedSize": "109284",
+                "extension": "mesh",
+                "originalRAM": "179276",
+                "originalSize": "109284",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "3",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684177702070108:63418"
+        }
+    },
+    "1684177702070108:63418": {
+        "IFileManager": {
+            "path": "Files/File_1684177702070108_63418.mesh"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1684177702017283:63404": {
+        "IResourceController": {
+            "name": "hat_jasmine",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1684177702017207:63394",
+            "fileId": "1684177702050464:63415",
+            "originalId": "1684177707353691:68526",
+            "expected_hash": "56fefd78812c929b43c7d61f1c49c847"
+        },
+        "IResourceManager": {
+            "uid": "1684177702017207:63394",
+            "name": "hat_jasmine",
+            "flags": 0
+        }
+    },
+    "1684177702050464:63415": {
+        "IFileManager": {
+            "path": "Files/File_1684177702050464_63415.oprfb"
+        }
+    },
+    "1684177707353691:68526": {
+        "IFileManager": {
+            "path": "Files/File_1684177707353691_68526.oprfb"
+        }
+    }
+}
