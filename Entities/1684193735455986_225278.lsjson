@@ -1,0 +1,72 @@
+{
+    "1684193735449409:225277": {
+        "IFileManager": {
+            "path": "Files/File_1684193735449409_225277.jpg"
+        }
+    },
+    "1684193735455986:225278": {
+        "IResourceController": {
+            "name": "headcover_ALB",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684193735456589:225279",
+            "fileId": "1684193735449409:225277",
+            "originalId": "1684193735457228:225284",
+            "publicId": "1684193735482464:225286",
+            "expected_hash": "87e5fb9d56484ff8005502d56d43c33e",
+            "additional": {
+                "originHash": "87e5fb9d56484ff8005502d56d43c33e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684193735456589:225279",
+            "name": "Files/File_1684193735449409_225277.jpg",
+            "flags": 1
+        }
+    },
+    "1684193735456589:225279": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "76605",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "76605",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684193735465728:225285"
+        }
+    },
+    "1684193735457228:225284": {
+        "IFileManager": {
+            "path": "Files/File_1684193735457228_225284.jpg"
+        }
+    },
+    "1684193735465728:225285": {
+        "IFileManager": {
+            "path": "Files/File_1684193735465728_225285.jpg"
+        }
+    },
+    "1684193735482464:225286": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Textures/headcover_ALB.jpg",
+                "hash": "87e5fb9d56484ff8005502d56d43c33e"
+            }
+        }
+    }
+}

@@ -33,12 +33,12 @@
         },
         "Material::UiComponent": "",
         "MetaInfoUIComponent": {
-            "icon_hash": "99c072ee5875c390bf89a222529551e9",
+            "icon_hash": "cd890853295d3fc7b2d77708ef2542c7",
             "icon_path": "icon.png",
             "hints": [
                 ""
             ],
-            "lens": "Try On",
+            "lens": "ROBLOX | PARSONS",
             "applicability": "3",
             "lens_descriptors": "",
             "sg": "false",
@@ -56,7 +56,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Dance.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "project:Images\/try_on_preview_2.png",
+                "front_preview_id": "local:C:\/Users\/0000106579\/Downloads\/AdobeStock_78696280.jpeg",
                 "front_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {

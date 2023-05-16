@@ -1,0 +1,72 @@
+{
+    "1684242212184631:102408": {
+        "IFileManager": {
+            "path": "Files/File_1684242212184631_102408.jpg"
+        }
+    },
+    "1684242212191378:102409": {
+        "IResourceController": {
+            "name": "waterwave-col sliver",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684242212192139:102410",
+            "fileId": "1684242212184631:102408",
+            "originalId": "1684242212193038:102415",
+            "publicId": "1684242212234026:102419",
+            "expected_hash": "402d3e2a069c603096c48a8fab72b7d5",
+            "additional": {
+                "originHash": "402d3e2a069c603096c48a8fab72b7d5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684242212192139:102410",
+            "name": "Files/File_1684242212184631_102408.jpg",
+            "flags": 1
+        }
+    },
+    "1684242212192139:102410": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "48698",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "48698",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684242212217281:102417"
+        }
+    },
+    "1684242212193038:102415": {
+        "IFileManager": {
+            "path": "Files/File_1684242212193038_102415.jpg"
+        }
+    },
+    "1684242212217281:102417": {
+        "IFileManager": {
+            "path": "Files/File_1684242212217281_102417.jpg"
+        }
+    },
+    "1684242212234026:102419": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJasmine/Textures/waterwave-col sliver.jpg",
+                "hash": "402d3e2a069c603096c48a8fab72b7d5"
+            }
+        }
+    }
+}

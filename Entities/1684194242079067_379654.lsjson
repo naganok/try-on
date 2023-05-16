@@ -1,0 +1,72 @@
+{
+    "1684194242070665:379653": {
+        "IFileManager": {
+            "path": "Files/File_1684194242070665_379653.jpg"
+        }
+    },
+    "1684194242079067:379654": {
+        "IResourceController": {
+            "name": "TXT_LCL_BodySuit_NOR",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684194242079790:379655",
+            "fileId": "1684194242070665:379653",
+            "originalId": "1684194242080609:379660",
+            "publicId": "1684194242113739:379662",
+            "expected_hash": "9bcf0bbec6f5284b7edc486ebd216059",
+            "additional": {
+                "originHash": "9bcf0bbec6f5284b7edc486ebd216059"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684194242079790:379655",
+            "name": "Files/File_1684194242070665_379653.jpg",
+            "flags": 1
+        }
+    },
+    "1684194242079790:379655": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "141812",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "141812",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684194242092527:379661"
+        }
+    },
+    "1684194242080609:379660": {
+        "IFileManager": {
+            "path": "Files/File_1684194242080609_379660.jpg"
+        }
+    },
+    "1684194242092527:379661": {
+        "IFileManager": {
+            "path": "Files/File_1684194242092527_379661.jpg"
+        }
+    },
+    "1684194242113739:379662": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJuine/Textures/TXT_LCL_BodySuit_NOR.jpg",
+                "hash": "9bcf0bbec6f5284b7edc486ebd216059"
+            }
+        }
+    }
+}

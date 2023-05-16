@@ -1,0 +1,72 @@
+{
+    "1684194240582102:375586": {
+        "IFileManager": {
+            "path": "Files/File_1684194240582102_375586.jpg"
+        }
+    },
+    "1684194240591867:375596": {
+        "IResourceController": {
+            "name": "TXT_LCL_BodySuit_MET",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684194240592628:375597",
+            "fileId": "1684194240582102:375586",
+            "originalId": "1684194240593744:375606",
+            "publicId": "1684194240630986:375852",
+            "expected_hash": "59b2d574928d0be71fc89970fa566d47",
+            "additional": {
+                "originHash": "59b2d574928d0be71fc89970fa566d47"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684194240592628:375597",
+            "name": "Files/File_1684194240582102_375586.jpg",
+            "flags": 1
+        }
+    },
+    "1684194240592628:375597": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "81210",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "81210",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684194240608379:375688"
+        }
+    },
+    "1684194240593744:375606": {
+        "IFileManager": {
+            "path": "Files/File_1684194240593744_375606.jpg"
+        }
+    },
+    "1684194240608379:375688": {
+        "IFileManager": {
+            "path": "Files/File_1684194240608379_375688.jpg"
+        }
+    },
+    "1684194240630986:375852": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamJuine/Textures/TXT_LCL_BodySuit_MET.jpg",
+                "hash": "59b2d574928d0be71fc89970fa566d47"
+            }
+        }
+    }
+}

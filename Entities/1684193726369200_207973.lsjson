@@ -1,0 +1,72 @@
+{
+    "1684193726362217:207972": {
+        "IFileManager": {
+            "path": "Files/File_1684193726362217_207972.jpg"
+        }
+    },
+    "1684193726369200:207973": {
+        "IResourceController": {
+            "name": "artificialglove_MET",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684193726369983:207974",
+            "fileId": "1684193726362217:207972",
+            "originalId": "1684193726370962:207979",
+            "publicId": "1684193726399792:207981",
+            "expected_hash": "52999687da9fcd5f7f8a2514bb0dafdc",
+            "additional": {
+                "originHash": "52999687da9fcd5f7f8a2514bb0dafdc"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684193726369983:207974",
+            "name": "Files/File_1684193726362217_207972.jpg",
+            "flags": 1
+        }
+    },
+    "1684193726369983:207974": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "87573",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "87573",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684193726380653:207980"
+        }
+    },
+    "1684193726370962:207979": {
+        "IFileManager": {
+            "path": "Files/File_1684193726370962_207979.jpg"
+        }
+    },
+    "1684193726380653:207980": {
+        "IFileManager": {
+            "path": "Files/File_1684193726380653_207980.jpg"
+        }
+    },
+    "1684193726399792:207981": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Textures/artificialglove_MET.jpg",
+                "hash": "52999687da9fcd5f7f8a2514bb0dafdc"
+            }
+        }
+    }
+}

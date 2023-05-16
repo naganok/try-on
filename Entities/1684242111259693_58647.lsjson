@@ -1,0 +1,72 @@
+{
+    "1684242111224069:58527": {
+        "IFileManager": {
+            "path": "Files/File_1684242111224069_58527.jpg"
+        }
+    },
+    "1684242111259693:58647": {
+        "IResourceController": {
+            "name": "dress_Roughness",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684242111261385:58859",
+            "fileId": "1684242111224069:58527",
+            "originalId": "1684242111263188:59001",
+            "publicId": "1684242111382984:59877",
+            "expected_hash": "29523eff9987a9cdb90d7f9ef011d82b",
+            "additional": {
+                "originHash": "29523eff9987a9cdb90d7f9ef011d82b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684242111261385:58859",
+            "name": "Files/File_1684242111224069_58527.jpg",
+            "flags": 1
+        }
+    },
+    "1684242111261385:58859": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "303953",
+                "extension": "jpg",
+                "originalRAM": "16777216",
+                "originalSize": "303953",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684242111307054:59218"
+        }
+    },
+    "1684242111263188:59001": {
+        "IFileManager": {
+            "path": "Files/File_1684242111263188_59001.jpg"
+        }
+    },
+    "1684242111307054:59218": {
+        "IFileManager": {
+            "path": "Files/File_1684242111307054_59218.jpg"
+        }
+    },
+    "1684242111382984:59877": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamAngela/Textures/dress_Roughness.jpg",
+                "hash": "29523eff9987a9cdb90d7f9ef011d82b"
+            }
+        }
+    }
+}

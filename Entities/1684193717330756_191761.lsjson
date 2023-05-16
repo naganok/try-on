@@ -1,0 +1,72 @@
+{
+    "1684193717322231:191699": {
+        "IFileManager": {
+            "path": "Files/File_1684193717322231_191699.jpg"
+        }
+    },
+    "1684193717330756:191761": {
+        "IResourceController": {
+            "name": "headcover_RGH",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684193717331378:191762",
+            "fileId": "1684193717322231:191699",
+            "originalId": "1684193717331989:191767",
+            "publicId": "1684193717366950:191872",
+            "expected_hash": "fb3c863fdc847167591b7c5035c19fbb",
+            "additional": {
+                "originHash": "fb3c863fdc847167591b7c5035c19fbb"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684193717331378:191762",
+            "name": "Files/File_1684193717322231_191699.jpg",
+            "flags": 1
+        }
+    },
+    "1684193717331378:191762": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "38256",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "38256",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684193717344637:191780"
+        }
+    },
+    "1684193717331989:191767": {
+        "IFileManager": {
+            "path": "Files/File_1684193717331989_191767.jpg"
+        }
+    },
+    "1684193717344637:191780": {
+        "IFileManager": {
+            "path": "Files/File_1684193717344637_191780.jpg"
+        }
+    },
+    "1684193717366950:191872": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Textures/headcover_RGH.jpg",
+                "hash": "fb3c863fdc847167591b7c5035c19fbb"
+            }
+        }
+    }
+}

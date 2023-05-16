@@ -1,0 +1,72 @@
+{
+    "1684193790301133:246858": {
+        "IFileManager": {
+            "path": "Files/File_1684193790301133_246858.jpg"
+        }
+    },
+    "1684193790335897:246859": {
+        "IResourceController": {
+            "name": "bottom-rgh",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684193790336364:246860",
+            "fileId": "1684193790301133:246858",
+            "originalId": "1684193790337146:246865",
+            "publicId": "1684193790411960:246867",
+            "expected_hash": "92403e7ffa74e77965db41b8d25e1d51",
+            "additional": {
+                "originHash": "92403e7ffa74e77965db41b8d25e1d51"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684193790336364:246860",
+            "name": "Files/File_1684193790301133_246858.jpg",
+            "flags": 1
+        }
+    },
+    "1684193790336364:246860": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "42206",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "42206",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684193790369654:246866"
+        }
+    },
+    "1684193790337146:246865": {
+        "IFileManager": {
+            "path": "Files/File_1684193790337146_246865.jpg"
+        }
+    },
+    "1684193790369654:246866": {
+        "IFileManager": {
+            "path": "Files/File_1684193790369654_246866.jpg"
+        }
+    },
+    "1684193790411960:246867": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/SoloBihan/Textures/bottom-rgh.jpg",
+                "hash": "92403e7ffa74e77965db41b8d25e1d51"
+            }
+        }
+    }
+}

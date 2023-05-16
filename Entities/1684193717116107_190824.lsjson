@@ -1,0 +1,72 @@
+{
+    "1684193717108002:190823": {
+        "IFileManager": {
+            "path": "Files/File_1684193717108002_190823.jpg"
+        }
+    },
+    "1684193717116107:190824": {
+        "IResourceController": {
+            "name": "headcover_NRM",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684193717116761:190825",
+            "fileId": "1684193717108002:190823",
+            "originalId": "1684193717117353:190830",
+            "publicId": "1684193717158938:190832",
+            "expected_hash": "19784652d0557c6ab5b3bc5ee4facda7",
+            "additional": {
+                "originHash": "19784652d0557c6ab5b3bc5ee4facda7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684193717116761:190825",
+            "name": "Files/File_1684193717108002_190823.jpg",
+            "flags": 1
+        }
+    },
+    "1684193717116761:190825": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "91531",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "91531",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684193717131678:190831"
+        }
+    },
+    "1684193717117353:190830": {
+        "IFileManager": {
+            "path": "Files/File_1684193717117353_190830.jpg"
+        }
+    },
+    "1684193717131678:190831": {
+        "IFileManager": {
+            "path": "Files/File_1684193717131678_190831.jpg"
+        }
+    },
+    "1684193717158938:190832": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Textures/headcover_NRM.jpg",
+                "hash": "19784652d0557c6ab5b3bc5ee4facda7"
+            }
+        }
+    }
+}

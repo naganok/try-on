@@ -1,0 +1,72 @@
+{
+    "1684193722376358:200607": {
+        "IFileManager": {
+            "path": "Files/File_1684193722376358_200607.jpg"
+        }
+    },
+    "1684193722383397:200608": {
+        "IResourceController": {
+            "name": "heartdress_NRM",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684193722384078:200609",
+            "fileId": "1684193722376358:200607",
+            "originalId": "1684193722384694:200614",
+            "publicId": "1684193722408676:200616",
+            "expected_hash": "91e23b41cea7da87c21bda1ea580d12f",
+            "additional": {
+                "originHash": "91e23b41cea7da87c21bda1ea580d12f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1684193722384078:200609",
+            "name": "Files/File_1684193722376358_200607.jpg",
+            "flags": 1
+        }
+    },
+    "1684193722384078:200609": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "52765",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "52765",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1684193722393123:200615"
+        }
+    },
+    "1684193722384694:200614": {
+        "IFileManager": {
+            "path": "Files/File_1684193722384694_200614.jpg"
+        }
+    },
+    "1684193722393123:200615": {
+        "IFileManager": {
+            "path": "Files/File_1684193722393123_200615.jpg"
+        }
+    },
+    "1684193722408676:200616": {
+        "IResourceController": {
+            "public": {
+                "path": "Roblox/TeamTaku/Textures/heartdress_NRM.jpg",
+                "hash": "91e23b41cea7da87c21bda1ea580d12f"
+            }
+        }
+    }
+}
