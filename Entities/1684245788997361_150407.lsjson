@@ -1,0 +1,17 @@
+{
+    "1684245788997361:150407": {
+        "IResourceController": {
+            "name": "Special (feat. SZA)",
+            "type": 5,
+            "subtype": 3,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684245788997356:150406"
+        },
+        "IResourceManager": {
+            "uid": "1684245788997356:150406",
+            "name": "Licensed Sound",
+            "flags": 0
+        }
+    }
+}

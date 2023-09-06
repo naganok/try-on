@@ -1,0 +1,17 @@
+{
+    "1684245646788154:107504": {
+        "IResourceController": {
+            "name": "No More Lies",
+            "type": 5,
+            "subtype": 3,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684245646788149:107503"
+        },
+        "IResourceManager": {
+            "uid": "1684245646788149:107503",
+            "name": "Licensed Sound",
+            "flags": 0
+        }
+    }
+}

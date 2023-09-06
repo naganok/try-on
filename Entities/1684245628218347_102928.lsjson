@@ -1,0 +1,17 @@
+{
+    "1684245628218347:102928": {
+        "IResourceController": {
+            "name": "One Million Dollars",
+            "type": 5,
+            "subtype": 3,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1684245628218342:102927"
+        },
+        "IResourceManager": {
+            "uid": "1684245628218342:102927",
+            "name": "Licensed Sound",
+            "flags": 0
+        }
+    }
+}
